@@ -1,4 +1,7 @@
-# Readme
+# Contentpack for Garry's Mod
+
+## What is it
+This Contentpack fixes 95% of all missing textures in Garry's Mod!
 
 ## Installation
 - Move this three folders in the addon directory of your Garry's Mod installation. 
